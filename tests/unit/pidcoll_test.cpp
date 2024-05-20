@@ -6,6 +6,7 @@
 #include <pidcoll.h>
 
 #include <vector>
+#include <cstring>
 
 namespace mock {
     struct PidInfo {
